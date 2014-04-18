@@ -11,5 +11,6 @@ namespace CmsDomain
     /// </summary>
     public class Class2
     {
+        // pretenting that we are fixing bugs in here
     }
 }
