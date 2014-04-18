@@ -12,5 +12,7 @@ namespace CmsDomain
     public class Class2
     {
         // pretenting that we are fixing bugs in here
+
+        // And again, we are fixing another bug here
     }
 }
